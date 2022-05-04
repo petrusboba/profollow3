@@ -1,6 +1,6 @@
 <?php
 
 $country = "62";
-$nomor = "xxxx";
+$nomor = "6282112591420";
 
 ?>
